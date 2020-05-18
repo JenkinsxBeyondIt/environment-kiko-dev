@@ -17,3 +17,9 @@ dependencies:
   url: https://github.com/it-beyondit/test_node3.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: it-beyondit
+  repo: prova
+  url: https://github.com/it-beyondit/prova.git
+  version: ""
+  versionURL: ""
