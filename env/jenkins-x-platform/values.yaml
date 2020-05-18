@@ -1,0 +1,7 @@
+jenkins:
+  Agent:
+    Nodejs12x:
+      Containers:
+        env:
+          livenessProd:
+            timeoutSeconds: 10
