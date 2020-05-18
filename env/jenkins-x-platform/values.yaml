@@ -3,5 +3,5 @@ jenkins:
     Nodejs12x:
       Containers:
         env:
-          livenessProd:
+          livenessProbe:
             timeoutSeconds: 10
