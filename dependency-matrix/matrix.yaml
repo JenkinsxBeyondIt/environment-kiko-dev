@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/it-beyondit/test_node.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: JenkinsxBeyondIt
+  repo: test_node2
+  url: https://github.com/JenkinsxBeyondIt/test_node2.git
+  version: ""
+  versionURL: ""
